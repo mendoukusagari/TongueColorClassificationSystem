@@ -5,7 +5,9 @@ For more details, you can check it out in the paper: https://github.com/dcmeta/T
 
 The result of this research can be seen below: 
 Result of Correction:
+
 ![alt text](https://github.com/dcmeta/TongueColorClassificationSystem/blob/master/res_correction.png)
 
 Result of Classification: 
+
 ![alt text](https://github.com/dcmeta/TongueColorClassificationSystem/blob/master/res_classification.png)
