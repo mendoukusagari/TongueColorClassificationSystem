@@ -4,6 +4,7 @@ This is a system for classifying tongue based on the color. There are four steps
 For more details, you can check it out in the paper: https://github.com/dcmeta/TongueColorClassificationSystem/blob/master/TongueColorClassificationSystem.pdf
 
 The result of this research can be seen below: 
+
 Result of Correction:
 
 ![alt text](https://github.com/dcmeta/TongueColorClassificationSystem/blob/master/res_correction.png)
