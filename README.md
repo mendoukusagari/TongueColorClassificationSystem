@@ -7,10 +7,10 @@ The result of this research can be seen below:
 
 Result of Correction:
 
-![alt text](https://github.com/dcmeta/TongueColorClassificationSystem/blob/master/res_correction.png)
+![alt text](https://github.com/seishino/TongueColorClassificationSystem/blob/master/res_correction.png)
 
 Result of Classification: 
 
-![alt text](https://github.com/dcmeta/TongueColorClassificationSystem/blob/master/res_classification.png)
+![alt text](https://github.com/seishino/TongueColorClassificationSystem/blob/master/res_classification.png)
 
 The result shows that the images which are corrected by using K-PLSRO can make a consistent classification in different sensor.
